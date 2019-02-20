@@ -1,0 +1,14 @@
+C:\Users\Макс\source\repos\WebSignInRegistrationForm\WebSignInRegistrationForm\bin\Debug\netcoreapp2.2\WebSignInRegistrationForm.deps.json
+C:\Users\Макс\source\repos\WebSignInRegistrationForm\WebSignInRegistrationForm\bin\Debug\netcoreapp2.2\WebSignInRegistrationForm.runtimeconfig.json
+C:\Users\Макс\source\repos\WebSignInRegistrationForm\WebSignInRegistrationForm\bin\Debug\netcoreapp2.2\WebSignInRegistrationForm.runtimeconfig.dev.json
+C:\Users\Макс\source\repos\WebSignInRegistrationForm\WebSignInRegistrationForm\bin\Debug\netcoreapp2.2\WebSignInRegistrationForm.dll
+C:\Users\Макс\source\repos\WebSignInRegistrationForm\WebSignInRegistrationForm\obj\Debug\netcoreapp2.2\WebSignInRegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\Макс\source\repos\WebSignInRegistrationForm\WebSignInRegistrationForm\obj\Debug\netcoreapp2.2\WebSignInRegistrationForm.RazorAssemblyInfo.cache
+C:\Users\Макс\source\repos\WebSignInRegistrationForm\WebSignInRegistrationForm\obj\Debug\netcoreapp2.2\WebSignInRegistrationForm.RazorAssemblyInfo.cs
+C:\Users\Макс\source\repos\WebSignInRegistrationForm\WebSignInRegistrationForm\obj\Debug\netcoreapp2.2\WebSignInRegistrationForm.AssemblyInfoInputs.cache
+C:\Users\Макс\source\repos\WebSignInRegistrationForm\WebSignInRegistrationForm\obj\Debug\netcoreapp2.2\WebSignInRegistrationForm.AssemblyInfo.cs
+C:\Users\Макс\source\repos\WebSignInRegistrationForm\WebSignInRegistrationForm\obj\Debug\netcoreapp2.2\WebSignInRegistrationForm.RazorTargetAssemblyInfo.cache
+C:\Users\Макс\source\repos\WebSignInRegistrationForm\WebSignInRegistrationForm\bin\Debug\netcoreapp2.2\WebSignInRegistrationForm.pdb
+C:\Users\Макс\source\repos\WebSignInRegistrationForm\WebSignInRegistrationForm\obj\Debug\netcoreapp2.2\WebSignInRegistrationForm.dll
+C:\Users\Макс\source\repos\WebSignInRegistrationForm\WebSignInRegistrationForm\obj\Debug\netcoreapp2.2\WebSignInRegistrationForm.pdb
+C:\Users\Макс\source\repos\WebSignInRegistrationForm\WebSignInRegistrationForm\obj\Debug\netcoreapp2.2\WebSignInRegistrationForm.csprojAssemblyReference.cache
